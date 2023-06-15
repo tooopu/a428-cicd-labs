@@ -30,6 +30,6 @@ phases:
 
 artifacts:
   files:
-    - 'hello-world'
+    - 'hello-app'
     - 'README.txt'
   name: hello-app-$(date +%Y-%m-%d).zip
